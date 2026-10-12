@@ -3,19 +3,35 @@
 🎓 **Bachelor of Applied Information Technology** | University of Luxembourg
 🐝 **Interests:** Beekeeping, Calisthenics, Programming
 
-### 💻 Tech Stack & Skills
-* **Programming Languages:** Java, Python, Swift
-* **Backend Development:** Spring Boot, RESTful APIs, Spring REST Controllers, Hibernate, JPA[cite: 2]
-* **Security & Testing:** Spring Security, JWT authentication, JUnit, Mockito[cite: 2]
-* **Databases:** SQL, PostgreSQL[cite: 2]
-* **DevOps & Tools:** Git, CI/CD pipelines, SonarQube, Docker (basic knowledge)[cite: 2]
-* **Web & Currently Learning:** HTML, CSS, Angular, TypeScript[cite: 2]
+### 💻 Languages & Frontend
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Swift](https://img.shields.io/badge/swift-F54A2A?style=for-the-badge&logo=swift&logoColor=white)
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white) *(Learning)*
 
-### 💼 Experience
-* **IT Department Intern @ Uni.lu (Mar 2026 - May 2026):** Implemented SonarQube within a Linux-based Agile/DevOps environment to automate code quality checks and error detection[cite: 2]. Fine-tuned server configurations to optimize scanning accuracy and reduce false positives[cite: 2]. Authored technical documentation and presented the system architecture[cite: 2].
+### 🍃 Spring Boot & Backend Ecosystem
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
+![Spring Security](https://img.shields.io/badge/Spring_Security-6DB33F?style=for-the-badge&logo=Spring-Security&logoColor=white)
+![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=Hibernate&logoColor=white)
+![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens)
 
-### 🏆 Leadership
-* **University of Luxembourg (Nov 2024 - Oct 2026):** President of the Student Delegation and Member of the Board of Governors[cite: 2]. Earned Certificate in Engagement and Leadership[cite: 2].
+* **Core:** RESTful APIs, Spring REST Controllers, JPA
+* **Testing:** JUnit, Mockito
+
+### 🛠 DevOps & Architecture
+![Git](https://img.shields.io/badge/git-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+![SonarQube](https://img.shields.io/badge/SonarQube-black?style=for-the-badge&logo=sonarqube&logoColor=4E9BCD)
+
+* **Practices:** CI/CD Pipelines, Agile/DevOps
+
+### 💼 Experience & Leadership
+* **IT Department Intern @ Uni.lu:** Implemented SonarQube in a Linux/DevOps environment for automated code quality checks. Optimized server configurations and authored technical architecture documentation.
+* **University of Luxembourg:** President of the Student Delegation & Member of the Board of Governors. Earned Certificate in Engagement and Leadership.
 
 ### 📫 Contact
-* **Email:** omarastoder@gmail.com[cite: 2]
+* **Email:** omarastoder@gmail.com
